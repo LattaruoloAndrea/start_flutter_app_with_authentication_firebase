@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">637805349115-9gjk79plbjt26gomkuatn224m6lh9pjr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">637805349115</string>
+    <string name="google_api_key" translatable="false">AIzaSyC7TSS5vBvRqrT04L2EfjIA210jKfStk0k</string>
+    <string name="google_app_id" translatable="false">1:637805349115:android:24819bd138c15e48cdc85e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC7TSS5vBvRqrT04L2EfjIA210jKfStk0k</string>
+    <string name="google_storage_bucket" translatable="false">test-gemini-c7b7c.appspot.com</string>
+    <string name="project_id" translatable="false">test-gemini-c7b7c</string>
+</resources>

@@ -1,0 +1,1 @@
+ /home/mithra/Documents/personal/gemini_app/.dart_tool/flutter_build/27a9d77bfcaf5371f7ead37b1de8e09f/native_assets.yaml: 
